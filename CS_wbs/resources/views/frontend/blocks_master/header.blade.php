@@ -727,89 +727,84 @@
         <!-- New breadcrumb here -->
 
     </header> <!-- /#page-header -->
-    <div class="highlighted">  <div class="region region-highlighted">
-            <section id="block-block-54" class="block block-block clearfix">
+    <div class="slider-home-group">
+        <div class="slider-home-group-left"><section id="block-views-slide-home-block-2" class="block block-views clearfix">
 
 
-                <div class="slider-home-group">
-                    <div class="slider-home-group-left"><section id="block-views-slide-home-block-2" class="block block-views clearfix">
-
-
-                            <div class="view view-slide-home view-id-slide_home view-display-id-block_2 view-dom-id-ed2246b68a4825b214b2a1c97cad470c">
+                <div class="view view-slide-home view-id-slide_home view-display-id-block_2 view-dom-id-076842baeac592e152fd7bc1a7b3f0bd jquery-once-1-processed">
 
 
 
-                                <div class="view-content ">
-                                    <div class="views-row views-row-1 views-row-odd views-row-first">
+                    <div class="view-content ">
+                        <div class="views-row views-row-1 views-row-odd views-row-first">
 
-                                        <div class="views-field views-field-field-quangcao-anh">        <div class="field-content"><img class="img-responsive" data-src="https://nxbkimdong.com.vn/sites/default/files/bn_12cgvuong_0.jpg" src="https://nxbkimdong.com.vn/sites/all/modules/lazyloader/image_placeholder.gif" width="370" height="370" alt="" /><noscript><img class="img-responsive" src="https://nxbkimdong.com.vn/sites/default/files/bn_12cgvuong_0.jpg" width="370" height="370" alt="" /></noscript></div>  </div>  </div>
-                                    <div class="views-row views-row-2 views-row-even views-row-last">
+                            <div class="views-field views-field-field-quangcao-anh">        <div class="field-content"><a href="https://nxbkimdong.com.vn/dai-tuong-vo-nguyen-giap-thoi-tre" target="_blank"><img class="img-responsive" src="https://nxbkimdong.com.vn/sites/default/files/dai-tuong-vo-nguyen-giap-thoi-tre-2.jpg" width="370" height="370" alt="" style="display: block;"><noscript><img class="img-responsive" src="https://nxbkimdong.com.vn/sites/default/files/dai-tuong-vo-nguyen-giap-thoi-tre-2.jpg" width="370" height="370" alt="" /></noscript></a></div>  </div>  </div>
+                        <div class="views-row views-row-2 views-row-even views-row-last">
 
-                                        <div class="views-field views-field-field-quangcao-anh">        <div class="field-content"><img class="img-responsive" data-src="https://nxbkimdong.com.vn/sites/default/files/bnbinhchonsach.jpg" src="https://nxbkimdong.com.vn/sites/all/modules/lazyloader/image_placeholder.gif" width="370" height="370" alt="" /><noscript><img class="img-responsive" src="https://nxbkimdong.com.vn/sites/default/files/bnbinhchonsach.jpg" width="370" height="370" alt="" /></noscript></div>  </div>  </div>
-                                </div>
-
-
-
-
-
-
-                            </div>
-                        </section>
+                            <div class="views-field views-field-field-quangcao-anh">        <div class="field-content"><a href="https://nxbkimdong.com.vn/ly-tu-trong-song-mai-ten-anh" target="_blank"><img class="img-responsive" src="https://nxbkimdong.com.vn/sites/default/files/ly-tu-trong-song-mai-ten-anh-2.jpg" width="370" height="370" alt="" style="display: block;"><noscript><img class="img-responsive" src="https://nxbkimdong.com.vn/sites/default/files/ly-tu-trong-song-mai-ten-anh-2.jpg" width="370" height="370" alt="" /></noscript></a></div>  </div>  </div>
                     </div>
-                    <div class="slider-home-group-center"><section id="block-views-slide-home-block" class="block block-views clearfix">
-
-
-                            <div class="view view-slide-home view-id-slide_home view-display-id-block view-dom-id-5c0d14547ae710ca27d337aaf3db36db">
-
-
-
-                                <div class="view-content ">
-                                    <div  id="flexslider-1" class="flexslider">
-                                        <ul class="slides"><li>
-                                                <div class="views-field views-field-field-quangcao-anh">        <div class="field-content"><img class="img-responsive" data-src="https://nxbkimdong.com.vn/sites/default/files/bn_n.jpg" src="https://nxbkimdong.com.vn/sites/all/modules/lazyloader/image_placeholder.gif" width="1180" height="740" alt="" /><noscript><img class="img-responsive" src="https://nxbkimdong.com.vn/sites/default/files/bn_n.jpg" width="1180" height="740" alt="" /></noscript></div>  </div></li>
-                                            <li>
-                                                <div class="views-field views-field-field-quangcao-anh">        <div class="field-content"><img class="img-responsive" data-src="https://nxbkimdong.com.vn/sites/default/files/bn_bosachkinangsong.jpg" src="https://nxbkimdong.com.vn/sites/all/modules/lazyloader/image_placeholder.gif" width="1180" height="740" alt="" /><noscript><img class="img-responsive" src="https://nxbkimdong.com.vn/sites/default/files/bn_bosachkinangsong.jpg" width="1180" height="740" alt="" /></noscript></div>  </div></li>
-                                            <li>
-                                                <div class="views-field views-field-field-quangcao-anh">        <div class="field-content"><img class="img-responsive" data-src="https://nxbkimdong.com.vn/sites/default/files/bnxu-kiwi.jpg" src="https://nxbkimdong.com.vn/sites/all/modules/lazyloader/image_placeholder.gif" width="1180" height="740" alt="" /><noscript><img class="img-responsive" src="https://nxbkimdong.com.vn/sites/default/files/bnxu-kiwi.jpg" width="1180" height="740" alt="" /></noscript></div>  </div></li>
-                                            <li>
-                                                <div class="views-field views-field-field-quangcao-anh">        <div class="field-content"><a href="https://nxbkimdong.com.vn/ho-so-tinh-cach-12-con-giap" target="_blank"><img class="img-responsive" data-src="https://nxbkimdong.com.vn/sites/default/files/bn_bimattuoinew.jpg" src="https://nxbkimdong.com.vn/sites/all/modules/lazyloader/image_placeholder.gif" width="1180" height="740" alt="" /><noscript><img class="img-responsive" src="https://nxbkimdong.com.vn/sites/default/files/bn_bimattuoinew.jpg" width="1180" height="740" alt="" /></noscript></a></div>  </div></li>
-                                            <li>
-                                                <div class="views-field views-field-field-quangcao-anh">        <div class="field-content"><a href="https://onepiecewt100.com/en/" target="_blank"><img class="img-responsive" data-src="https://nxbkimdong.com.vn/sites/default/files/bn201218one100_banner-web.jpg" src="https://nxbkimdong.com.vn/sites/all/modules/lazyloader/image_placeholder.gif" width="1180" height="740" alt="" /><noscript><img class="img-responsive" src="https://nxbkimdong.com.vn/sites/default/files/bn201218one100_banner-web.jpg" width="1180" height="740" alt="" /></noscript></a></div>  </div></li>
-                                        </ul></div>
-                                </div>
 
 
 
 
 
 
-                            </div>
-                        </section>
+                </div>
+            </section>
+        </div>
+        <div class="slider-home-group-center"><section id="block-views-slide-home-block" class="block block-views clearfix">
+
+
+                <div class="view view-slide-home view-id-slide_home view-display-id-block view-dom-id-c06b1d767cc5caf4c327b1033420da70 jquery-once-1-processed">
+
+
+
+                    <div class="view-content ">
+                        <div id="flexslider-1" class="flexslider flexslider-processed">
+                            <div class="flex-viewport" style="overflow: hidden; position: relative;"><ul class="slides" style="width: 1400%; transition-duration: 0s; transform: translate3d(-1148px, 0px, 0px);"><li class="clone" aria-hidden="true" style="width: 1148px; float: left; display: block;">
+                                        <div class="views-field views-field-field-quangcao-anh">        <div class="field-content"><a href="https://nxbkimdong.com.vn/landing-page/761848" target="_blank"><img class="img-responsive" src="https://nxbkimdong.com.vn/sites/default/files/bnwebkimdong_t3_ki-niem-90-nam.jpg" width="1180" height="740" alt="" draggable="false" style="display: block;"><noscript><img class="img-responsive" src="https://nxbkimdong.com.vn/sites/default/files/bnwebkimdong_t3_ki-niem-90-nam.jpg" width="1180" height="740" alt="" /></noscript></a></div>  </div></li><li style="width: 1148px; float: left; display: block;" class="flex-active-slide">
+                                        <div class="views-field views-field-field-quangcao-anh">        <div class="field-content"><a href="https://nxbkimdong.com.vn/im-dai-tu-te-imhotep-tap-1" target="_blank"><img class="img-responsive" src="https://nxbkimdong.com.vn/sites/default/files/bnbanner-web-imhotep.jpg" width="1180" height="740" alt="" draggable="false" style="display: block;"><noscript><img class="img-responsive" src="https://nxbkimdong.com.vn/sites/default/files/bnbanner-web-imhotep.jpg" width="1180" height="740" alt="" /></noscript></a></div>  </div></li>
+                                    <li class="" style="width: 1148px; float: left; display: block;">
+                                        <div class="views-field views-field-field-quangcao-anh">        <div class="field-content"><a href="https://nxbkimdong.com.vn/thanh-guom-diet-quy-tap-22-phien-ban-dac-biet" target="_blank"><img class="img-responsive" src="https://nxbkimdong.com.vn/sites/default/files/bntgdq22.jpg" width="1180" height="740" alt="" draggable="false" style="display: block;"><noscript><img class="img-responsive" src="https://nxbkimdong.com.vn/sites/default/files/bntgdq22.jpg" width="1180" height="740" alt="" /></noscript></a></div>  </div></li>
+                                    <li style="width: 1148px; float: left; display: block;" class="">
+                                        <div class="views-field views-field-field-quangcao-anh">        <div class="field-content"><a href="https://nxbkimdong.com.vn/tim-kiem?title=GRIMGAR%20-%20%E1%BA%A2O%20%E1%BA%A2NH%20V%C3%80%20TRO%20T%C3%80N%20-%20T%E1%BA%ACP%2010" target="_blank"><img class="img-responsive" src="https://nxbkimdong.com.vn/sites/default/files/bngrimgarvol-10-2.jpg" width="1180" height="740" alt="" draggable="false" style="display: block;"><noscript><img class="img-responsive" src="https://nxbkimdong.com.vn/sites/default/files/bngrimgarvol-10-2.jpg" width="1180" height="740" alt="" /></noscript></a></div>  </div></li>
+                                    <li style="width: 1148px; float: left; display: block;" class="">
+                                        <div class="views-field views-field-field-quangcao-anh">        <div class="field-content"><a href="https://nxbkimdong.com.vn/sach-phathanh/756378" target="_blank"><img class="img-responsive" src="https://nxbkimdong.com.vn/sites/default/files/bnthitranmeot6.jpg" width="1180" height="740" alt="" draggable="false" style="display: block;"><noscript><img class="img-responsive" src="https://nxbkimdong.com.vn/sites/default/files/bnthitranmeot6.jpg" width="1180" height="740" alt="" /></noscript></a></div>  </div></li>
+                                    <li style="width: 1148px; float: left; display: block;" class="">
+                                        <div class="views-field views-field-field-quangcao-anh">        <div class="field-content"><a href="https://nxbkimdong.com.vn/landing-page/761848" target="_blank"><img class="img-responsive" src="https://nxbkimdong.com.vn/sites/default/files/bnwebkimdong_t3_ki-niem-90-nam.jpg" width="1180" height="740" alt="" draggable="false" style="display: block;"><noscript><img class="img-responsive" src="https://nxbkimdong.com.vn/sites/default/files/bnwebkimdong_t3_ki-niem-90-nam.jpg" width="1180" height="740" alt="" /></noscript></a></div>  </div></li>
+                                    <li style="width: 1148px; float: left; display: block;" class="clone" aria-hidden="true">
+                                        <div class="views-field views-field-field-quangcao-anh">        <div class="field-content"><a href="https://nxbkimdong.com.vn/im-dai-tu-te-imhotep-tap-1" target="_blank"><img class="img-responsive" src="https://nxbkimdong.com.vn/sites/default/files/bnbanner-web-imhotep.jpg" width="1180" height="740" alt="" draggable="false" style="display: block;"><noscript><img class="img-responsive" src="https://nxbkimdong.com.vn/sites/default/files/bnbanner-web-imhotep.jpg" width="1180" height="740" alt="" /></noscript></a></div>  </div></li></ul></div><ul class="flex-direction-nav"><li class="flex-nav-prev"><a class="flex-prev" href="#"></a></li><li class="flex-nav-next"><a class="flex-next" href="#"></a></li></ul></div>
                     </div>
-                    <div class="slider-home-group-right"><section id="block-views-slide-home-block-3" class="block block-views clearfix">
-
-
-                            <div class="view view-slide-home view-id-slide_home view-display-id-block_3 view-dom-id-5bc3356b9a7e0125f6dc3489e42603f8">
-
-
-
-                                <div class="view-content ">
-                                    <div class="views-row views-row-1 views-row-odd views-row-first">
-
-                                        <div class="views-field views-field-field-quangcao-anh">        <div class="field-content"><img class="img-responsive" data-src="https://nxbkimdong.com.vn/sites/default/files/bnv_hcttx2370px.jpg" src="https://nxbkimdong.com.vn/sites/all/modules/lazyloader/image_placeholder.gif" width="370" height="370" alt="" /><noscript><img class="img-responsive" src="https://nxbkimdong.com.vn/sites/default/files/bnv_hcttx2370px.jpg" width="370" height="370" alt="" /></noscript></div>  </div>  </div>
-                                    <div class="views-row views-row-2 views-row-even views-row-last">
-
-                                        <div class="views-field views-field-field-quangcao-anh">        <div class="field-content"><img class="img-responsive" data-src="https://nxbkimdong.com.vn/sites/default/files/kd_370x370_t113.png" src="https://nxbkimdong.com.vn/sites/all/modules/lazyloader/image_placeholder.gif" width="493" height="493" alt="" /><noscript><img class="img-responsive" src="https://nxbkimdong.com.vn/sites/default/files/kd_370x370_t113.png" width="493" height="493" alt="" /></noscript></div>  </div>  </div>
-                                </div>
 
 
 
 
 
 
-                            </div>
-                        </section>
+                </div>
+            </section>
+        </div>
+        <div class="slider-home-group-right"><section id="block-views-slide-home-block-3" class="block block-views clearfix">
+
+
+                <div class="view view-slide-home view-id-slide_home view-display-id-block_3 view-dom-id-781213b82f4b2b92c0f379291d324177 jquery-once-1-processed">
+
+
+
+                    <div class="view-content ">
+                        <div class="views-row views-row-1 views-row-odd views-row-first">
+
+                            <div class="views-field views-field-field-quangcao-anh">        <div class="field-content"><a href="https://nxbkimdong.com.vn/thoi-hoa-lua" target="_blank"><img class="img-responsive" src="https://nxbkimdong.com.vn/sites/default/files/thoi-hoa-lua-2.jpg" width="370" height="370" alt="" style="display: block;"><noscript><img class="img-responsive" src="https://nxbkimdong.com.vn/sites/default/files/thoi-hoa-lua-2.jpg" width="370" height="370" alt="" /></noscript></a></div>  </div>  </div>
+                        <div class="views-row views-row-2 views-row-even views-row-last">
+
+                            <div class="views-field views-field-field-quangcao-anh">        <div class="field-content"><a href="https://nxbkimdong.com.vn/tuoi-tre-hoang-van-thu" target="_blank"><img class="img-responsive" src="https://nxbkimdong.com.vn/sites/default/files/tuoi-tre-hoang-van-thu-2.jpg" width="370" height="370" alt="" style="display: block;"><noscript><img class="img-responsive" src="https://nxbkimdong.com.vn/sites/default/files/tuoi-tre-hoang-van-thu-2.jpg" width="370" height="370" alt="" /></noscript></a></div>  </div>  </div>
                     </div>
+
+
+
+
+
+
                 </div>
             </section>
         </div>

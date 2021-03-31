@@ -53,7 +53,7 @@
                                 </tfoot>
                             </table>
                             <div style="float: right;">{{ $categorys->links( "pagination::bootstrap-4") }}</div>
-                            <a class="btn btn-primary" href="{{ route('category.create') }}">Thêm mới</a>
+{{--                            <a class="btn btn-primary" href="{{ route('category.create') }}">Thêm mới</a>--}}
                         </div>
                     </div>
                 </div>
